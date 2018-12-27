@@ -1,0 +1,6 @@
+gui:
+  video:
+    server:
+      port: 50000
+    client:
+      inetAddress: 127.0.0.1

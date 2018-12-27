@@ -1,5 +1,5 @@
 video:
   server:
-    port: 1234
+    port: 50001
   client:
     inetAddress: 127.0.0.1
