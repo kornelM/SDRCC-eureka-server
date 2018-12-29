@@ -1,6 +1,8 @@
 gui:
   video:
-    server:
+    carControlApp:
       port: 50000
-    client:
+      inetAddress: 127.0.0.1
+    videoServerApp:
+      port: 50003
       inetAddress: 127.0.0.1
