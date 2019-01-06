@@ -2,7 +2,7 @@ video:
   server:
     port: 50001
   client:
-    inetAddress: 127.0.0.1
+    address: 127.0.0.1
   gui:
     port: 50003
-    inetAddress: 127.0.0.1
+    address: 127.0.0.1
